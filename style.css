@@ -3,6 +3,11 @@ body{
     background: linear-gradient(rgba(42, 41, 41, 0.989) 10%, rgb(52, 50, 48), rgb(85, 84, 83) 50%) fixed;
     font-family: Arial, Helvetica, sans-serif;
     margin: 25px 250px;
+    padding: 0px;
+    overflow: auto;
+    
+
+   
     /*width: 1150px; 
     height: 130px;*/
 
@@ -119,3 +124,5 @@ img{
         margin: 10px; 
         width: 25%;
          }
+
+    
